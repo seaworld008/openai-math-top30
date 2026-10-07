@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img">
+<defs><linearGradient id="bgg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101a30"/><stop offset="0.6" stop-color="#0d1424"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="glow" cx="0.5" cy="0.4" r="0.9"><stop offset="0" stop-color="#1b2b4d" stop-opacity="0.55"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient><marker id="arB" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#58a6ff"/></marker><marker id="arR" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ff7b72"/></marker><marker id="arG" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3fb950"/></marker><marker id="arY" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f0b429"/></marker><marker id="arW" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#e6edf3"/></marker><marker id="arP" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d2a8ff"/></marker><marker id="arO" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ffa657"/></marker><marker id="arD" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8b949e"/></marker><marker id="arC" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#79c0ff"/></marker></defs>
+<rect width="800" height="450" fill="url(#bgg)"/>
+<rect width="800" height="450" fill="url(#glow)"/>
+<text x="28" y="42" font-family="sans-serif" font-size="19" fill="#8b949e" text-anchor="start" font-weight="bold">25 · π 的禁区：无理测度 = 2（最优）</text>
+<line x1="70" y1="220" x2="730" y2="220" stroke="#8b949e" stroke-width="3"/>
+<line x1="235.0" y1="212" x2="235.0" y2="228" stroke="#8b949e" stroke-width="2"/>
+<text x="235.0" y="250" font-family="sans-serif" font-size="13" fill="#8b949e" text-anchor="middle" font-weight="normal">3</text>
+<line x1="565.0" y1="212" x2="565.0" y2="228" stroke="#8b949e" stroke-width="2"/>
+<text x="565.0" y="250" font-family="sans-serif" font-size="13" fill="#8b949e" text-anchor="middle" font-weight="normal">4</text>
+<circle cx="281.7247" cy="220" r="62" fill="none" stroke="#f0b429" stroke-width="2.5" opacity="0.7"/>
+<circle cx="281.7247" cy="220" r="44" fill="none" stroke="#f0b429" stroke-width="2" opacity="0.5"/>
+<circle cx="281.7247" cy="220" r="30" fill="#2a2410" stroke="#f0b429" stroke-width="3" opacity="1"/>
+<text x="281.7247" y="231" font-family="sans-serif" font-size="26" fill="#f0b429" text-anchor="middle" font-weight="bold">π</text>
+<text x="151.72469999999998" y="140" font-family="sans-serif" font-size="14" fill="#79c0ff" text-anchor="middle" font-weight="bold">p/q</text>
+<line x1="151.72469999999998" y1="148" x2="211.72469999999998" y2="190" stroke="#79c0ff" stroke-width="2" marker-end="url(#arC)"/>
+<text x="151.72469999999998" y="166" font-family="sans-serif" font-size="12" fill="#ff7b72" text-anchor="middle" font-weight="normal">弹开！</text>
+<text x="431.7247" y="150" font-family="sans-serif" font-size="14" fill="#79c0ff" text-anchor="middle" font-weight="bold">p/q</text>
+<line x1="431.7247" y1="158" x2="351.7247" y2="190" stroke="#79c0ff" stroke-width="2" marker-end="url(#arC)"/>
+<text x="431.7247" y="176" font-family="sans-serif" font-size="12" fill="#ff7b72" text-anchor="middle" font-weight="normal">弹开！</text>
+<text x="191.72469999999998" y="300" font-family="sans-serif" font-size="14" fill="#79c0ff" text-anchor="middle" font-weight="bold">p/q</text>
+<line x1="191.72469999999998" y1="308" x2="211.72469999999998" y2="250" stroke="#79c0ff" stroke-width="2" marker-end="url(#arC)"/>
+<text x="191.72469999999998" y="326" font-family="sans-serif" font-size="12" fill="#ff7b72" text-anchor="middle" font-weight="normal">弹开！</text>
+<text x="400" y="110" font-family="sans-serif" font-size="16" fill="#f0b429" text-anchor="middle" font-weight="bold">禁区半径 ~ q⁻²</text>
+<line x1="120" y1="370" x2="680" y2="370" stroke="#8b949e" stroke-width="2.5"/>
+<circle cx="150" cy="370" r="6" fill="#58a6ff" stroke="#58a6ff" stroke-width="1" opacity="1"/>
+<text x="150" y="398" font-family="sans-serif" font-size="14" fill="#e6edf3" text-anchor="middle" font-weight="normal">1953: 42</text>
+<circle cx="400" cy="370" r="6" fill="#58a6ff" stroke="#58a6ff" stroke-width="1" opacity="1"/>
+<text x="400" y="398" font-family="sans-serif" font-size="14" fill="#e6edf3" text-anchor="middle" font-weight="normal">2008: 7.6</text>
+<circle cx="650" cy="370" r="6" fill="#58a6ff" stroke="#58a6ff" stroke-width="1" opacity="1"/>
+<text x="650" y="398" font-family="sans-serif" font-size="14" fill="#3fb950" text-anchor="middle" font-weight="bold">2026: 2（最优）</text>
+</svg>

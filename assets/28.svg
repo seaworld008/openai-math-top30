@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img">
+<defs><linearGradient id="bgg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101a30"/><stop offset="0.6" stop-color="#0d1424"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="glow" cx="0.5" cy="0.4" r="0.9"><stop offset="0" stop-color="#1b2b4d" stop-opacity="0.55"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient><marker id="arB" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#58a6ff"/></marker><marker id="arR" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ff7b72"/></marker><marker id="arG" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3fb950"/></marker><marker id="arY" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f0b429"/></marker><marker id="arW" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#e6edf3"/></marker><marker id="arP" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d2a8ff"/></marker><marker id="arO" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ffa657"/></marker><marker id="arD" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8b949e"/></marker><marker id="arC" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#79c0ff"/></marker></defs>
+<rect width="800" height="450" fill="url(#bgg)"/>
+<rect width="800" height="450" fill="url(#glow)"/>
+<text x="28" y="42" font-family="sans-serif" font-size="19" fill="#8b949e" text-anchor="start" font-weight="bold">28 · Mahler 体积猜想：1939 → 2026</text>
+<rect x="90" y="130" width="120" height="120" rx="0" fill="#101a30" stroke="#58a6ff" stroke-width="2.5" opacity="1"/>
+<rect x="120" y="100" width="120" height="120" rx="0" fill="none" stroke="#58a6ff" stroke-width="2" opacity="0.5"/>
+<line x1="90" y1="130" x2="120" y2="100" stroke="#58a6ff" stroke-width="1.5"/>
+<line x1="210" y1="130" x2="240" y2="100" stroke="#58a6ff" stroke-width="1.5"/>
+<line x1="90" y1="250" x2="120" y2="220" stroke="#58a6ff" stroke-width="1.5"/>
+<line x1="210" y1="250" x2="240" y2="220" stroke="#58a6ff" stroke-width="1.5"/>
+<polygon points="180,130 240,175 180,220 120,175" fill="#1b2b4d" stroke="#f0b429" stroke-width="2.5" opacity="1"/>
+<text x="180" y="290" font-family="sans-serif" font-size="13" fill="#e6edf3" text-anchor="middle" font-weight="normal">立方体与其极体（八面体）</text>
+<text x="180" y="312" font-family="sans-serif" font-size="14" fill="#f0b429" text-anchor="middle" font-weight="bold">体积乘积最小</text>
+<polygon points="420,250 540,250 480,130" fill="#101a30" stroke="#3fb950" stroke-width="2.5" opacity="1"/>
+<polygon points="480,175 420,215 540,215" fill="#0e2a1a" stroke="#3fb950" stroke-width="2" opacity="0.7"/>
+<text x="480" y="290" font-family="sans-serif" font-size="13" fill="#e6edf3" text-anchor="middle" font-weight="normal">单纯形与其极体</text>
+<line x1="120" y1="370" x2="680" y2="370" stroke="#8b949e" stroke-width="2.5"/>
+<circle cx="150" cy="370" r="6" fill="#8b949e" stroke="#8b949e" stroke-width="1" opacity="1"/>
+<text x="150" y="398" font-family="sans-serif" font-size="14" fill="#8b949e" text-anchor="middle" font-weight="normal">1939</text>
+<circle cx="400" cy="370" r="6" fill="#8b949e" stroke="#8b949e" stroke-width="1" opacity="1"/>
+<text x="400" y="398" font-family="sans-serif" font-size="14" fill="#8b949e" text-anchor="middle" font-weight="normal">1987（近似版）</text>
+<circle cx="640" cy="370" r="6" fill="#3fb950" stroke="#3fb950" stroke-width="1" opacity="1"/>
+<text x="640" y="398" font-family="sans-serif" font-size="14" fill="#3fb950" text-anchor="middle" font-weight="bold">2026（精确解决）</text>
+</svg>

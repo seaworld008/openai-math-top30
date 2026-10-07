@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img">
+<defs><linearGradient id="bgg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101a30"/><stop offset="0.6" stop-color="#0d1424"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="glow" cx="0.5" cy="0.4" r="0.9"><stop offset="0" stop-color="#1b2b4d" stop-opacity="0.55"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient><marker id="arB" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#58a6ff"/></marker><marker id="arR" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ff7b72"/></marker><marker id="arG" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3fb950"/></marker><marker id="arY" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f0b429"/></marker><marker id="arW" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#e6edf3"/></marker><marker id="arP" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d2a8ff"/></marker><marker id="arO" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ffa657"/></marker><marker id="arD" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8b949e"/></marker><marker id="arC" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#79c0ff"/></marker></defs>
+<rect width="800" height="450" fill="url(#bgg)"/>
+<rect width="800" height="450" fill="url(#glow)"/>
+<text x="28" y="42" font-family="sans-serif" font-size="19" fill="#8b949e" text-anchor="start" font-weight="bold">20 · KT 相变：涡旋配对与本质奇点</text>
+<rect x="50" y="90" width="210" height="220" rx="8" fill="#10141d" stroke="#8b949e" stroke-width="2" opacity="1"/>
+<text x="155" y="75" font-family="sans-serif" font-size="15" fill="#e6edf3" text-anchor="middle" font-weight="bold">高温</text>
+<path d="M M 134,208 L 161,211 L 136,213 L 159,215 L 138,217 L 157,219 L 140,222 L 155,224" fill="none" stroke="#79c0ff" stroke-width="2" opacity="1"/>
+<circle cx="147.8569330264728" cy="208.36813405126944" r="3" fill="#79c0ff" stroke="#79c0ff" stroke-width="1" opacity="1"/>
+<path d="M M 170,212 L 143,214 L 168,217 L 145,219 L 166,221 L 147,223 L 164,225 L 149,228" fill="none" stroke="#ffa657" stroke-width="2" opacity="1"/>
+<circle cx="156.17619095934066" cy="212.23387603898556" r="3" fill="#ffa657" stroke="#ffa657" stroke-width="1" opacity="1"/>
+<path d="M M 188,241 L 161,243 L 186,245 L 163,248 L 184,250 L 165,252 L 182,254 L 167,256" fill="none" stroke="#79c0ff" stroke-width="2" opacity="1"/>
+<circle cx="174.48240803252028" cy="241.01676215279338" r="3" fill="#79c0ff" stroke="#79c0ff" stroke-width="1" opacity="1"/>
+<path d="M M 80,243 L 107,246 L 82,248 L 105,250 L 84,252 L 103,254 L 86,257 L 101,259" fill="none" stroke="#79c0ff" stroke-width="2" opacity="1"/>
+<circle cx="93.60058062377591" cy="243.35023481140485" r="3" fill="#79c0ff" stroke="#79c0ff" stroke-width="1" opacity="1"/>
+<path d="M M 213,265 L 240,267 L 215,269 L 238,272 L 217,274 L 236,276 L 219,278 L 234,280" fill="none" stroke="#ffa657" stroke-width="2" opacity="1"/>
+<circle cx="227.32901311981675" cy="265.06608935757936" r="3" fill="#ffa657" stroke="#ffa657" stroke-width="1" opacity="1"/>
+<path d="M M 90,132 L 117,134 L 92,137 L 115,139 L 94,141 L 113,143 L 96,145 L 111,148" fill="none" stroke="#79c0ff" stroke-width="2" opacity="1"/>
+<circle cx="103.62411427102437" cy="132.1001031729447" r="3" fill="#79c0ff" stroke="#79c0ff" stroke-width="1" opacity="1"/>
+<text x="155" y="335" font-family="sans-serif" font-size="12" fill="#8b949e" text-anchor="middle" font-weight="normal">正负涡旋自由游荡</text>
+<rect x="295" y="90" width="210" height="220" rx="8" fill="#10141d" stroke="#f0b429" stroke-width="2" opacity="1"/>
+<text x="400" y="75" font-family="sans-serif" font-size="15" fill="#f0b429" text-anchor="middle" font-weight="bold">临界</text>
+<path d="M M 344,150 L 317,152 L 342,154 L 319,157 L 340,159 L 321,161 L 338,163 L 323,165" fill="none" stroke="#79c0ff" stroke-width="2" opacity="1"/>
+<circle cx="330" cy="150" r="3" fill="#79c0ff" stroke="#79c0ff" stroke-width="1" opacity="1"/>
+<path d="M M 350,158 L 377,160 L 352,162 L 375,165 L 354,167 L 373,169 L 356,171 L 371,173" fill="none" stroke="#ffa657" stroke-width="2" opacity="1"/>
+<circle cx="364" cy="158" r="3" fill="#ffa657" stroke="#ffa657" stroke-width="1" opacity="1"/>
+<ellipse cx="347" cy="154" rx="30" ry="20" fill="none" stroke="#f0b429" stroke-width="1.5" stroke-dasharray="5,4"/>
+<path d="M M 434,200 L 407,202 L 432,204 L 409,207 L 430,209 L 411,211 L 428,213 L 413,215" fill="none" stroke="#79c0ff" stroke-width="2" opacity="1"/>
+<circle cx="420" cy="200" r="3" fill="#79c0ff" stroke="#79c0ff" stroke-width="1" opacity="1"/>
+<path d="M M 440,208 L 467,210 L 442,212 L 465,215 L 444,217 L 463,219 L 446,221 L 461,223" fill="none" stroke="#ffa657" stroke-width="2" opacity="1"/>
+<circle cx="454" cy="208" r="3" fill="#ffa657" stroke="#ffa657" stroke-width="1" opacity="1"/>
+<ellipse cx="437" cy="204" rx="30" ry="20" fill="none" stroke="#f0b429" stroke-width="1.5" stroke-dasharray="5,4"/>
+<path d="M M 364,250 L 337,252 L 362,254 L 339,257 L 360,259 L 341,261 L 358,263 L 343,265" fill="none" stroke="#79c0ff" stroke-width="2" opacity="1"/>
+<circle cx="350" cy="250" r="3" fill="#79c0ff" stroke="#79c0ff" stroke-width="1" opacity="1"/>
+<path d="M M 370,258 L 397,260 L 372,262 L 395,265 L 374,267 L 393,269 L 376,271 L 391,273" fill="none" stroke="#ffa657" stroke-width="2" opacity="1"/>
+<circle cx="384" cy="258" r="3" fill="#ffa657" stroke="#ffa657" stroke-width="1" opacity="1"/>
+<ellipse cx="367" cy="254" rx="30" ry="20" fill="none" stroke="#f0b429" stroke-width="1.5" stroke-dasharray="5,4"/>
+<text x="400" y="335" font-family="sans-serif" font-size="12" fill="#f0b429" text-anchor="middle" font-weight="bold">两两配对成「情侣」锁死</text>
+<line x1="545" y1="90" x2="545" y2="310" stroke="#8b949e" stroke-width="2"/>
+<line x1="545" y1="310" x2="760" y2="310" stroke="#8b949e" stroke-width="2"/>
+<text x="520" y="80" font-family="sans-serif" font-size="12" fill="#8b949e" text-anchor="start" font-weight="normal">关联长度</text>
+<path d="M560,300 C 620,295 650,280 668,120" fill="none" stroke="#ff7b72" stroke-width="3.5" opacity="1"/>
+<line x1="668" y1="90" x2="668" y2="310" stroke="#ff7b72" stroke-width="2" stroke-dasharray="7,5"/>
+<text x="700" y="130" font-family="sans-serif" font-size="13" fill="#ff7b72" text-anchor="middle" font-weight="bold">本质奇点</text>
+<text x="700" y="150" font-family="sans-serif" font-size="11" fill="#8b949e" text-anchor="middle" font-weight="normal">比任何幂律都陡</text>
+<text x="652" y="360" font-family="sans-serif" font-size="13" fill="#f0b429" text-anchor="middle" font-weight="bold">2016 诺奖预言，今成定理</text>
+</svg>

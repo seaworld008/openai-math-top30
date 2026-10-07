@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img">
+<defs><linearGradient id="bgg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101a30"/><stop offset="0.6" stop-color="#0d1424"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="glow" cx="0.5" cy="0.4" r="0.9"><stop offset="0" stop-color="#1b2b4d" stop-opacity="0.55"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient><marker id="arB" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#58a6ff"/></marker><marker id="arR" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ff7b72"/></marker><marker id="arG" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3fb950"/></marker><marker id="arY" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f0b429"/></marker><marker id="arW" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#e6edf3"/></marker><marker id="arP" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d2a8ff"/></marker><marker id="arO" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ffa657"/></marker><marker id="arD" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8b949e"/></marker><marker id="arC" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#79c0ff"/></marker></defs>
+<rect width="800" height="450" fill="url(#bgg)"/>
+<rect width="800" height="450" fill="url(#glow)"/>
+<text x="28" y="42" font-family="sans-serif" font-size="19" fill="#8b949e" text-anchor="start" font-weight="bold">17 · 旋转黑洞：未来不再唯一？</text>
+<circle cx="280" cy="230" r="130" fill="#05070d" stroke="#58a6ff" stroke-width="3" opacity="1"/>
+<circle cx="280" cy="230" r="80" fill="#0a0e18" stroke="#d2a8ff" stroke-width="3" opacity="1"/>
+<text x="280" y="105" font-family="sans-serif" font-size="14" fill="#58a6ff" text-anchor="middle" font-weight="bold">外视界</text>
+<text x="280" y="155" font-family="sans-serif" font-size="13" fill="#d2a8ff" text-anchor="middle" font-weight="bold">内柯西视界</text>
+<path d="M280,230 L280,280" fill="none" stroke="#e6edf3" stroke-width="2" stroke-dasharray="7,5" opacity="1"/>
+<path d="M280,280 Q 257,310 235,340" fill="none" stroke="#ff7b72" stroke-width="2" stroke-dasharray="6,5" opacity="1"/>
+<path d="M280,280 Q 280,315 280,350" fill="none" stroke="#ff7b72" stroke-width="2" stroke-dasharray="6,5" opacity="1"/>
+<path d="M280,280 Q 302,310 325,340" fill="none" stroke="#ff7b72" stroke-width="2" stroke-dasharray="6,5" opacity="1"/>
+<path d="M280,280 Q 267,335 255,390" fill="none" stroke="#ff7b72" stroke-width="2" stroke-dasharray="6,5" opacity="1"/>
+<path d="M280,280 Q 292,337 305,395" fill="none" stroke="#ff7b72" stroke-width="2" stroke-dasharray="6,5" opacity="1"/>
+<text x="280" y="415" font-family="sans-serif" font-size="15" fill="#ff7b72" text-anchor="middle" font-weight="bold">未来不再唯一？</text>
+<path d="M540,180 L560,202 L600,160" fill="none" stroke="#3fb950" stroke-width="6" opacity="1"/>
+<text x="620" y="190" font-family="sans-serif" font-size="16" fill="#3fb950" text-anchor="start" font-weight="bold">一般情形下</text>
+<text x="620" y="214" font-family="sans-serif" font-size="16" fill="#3fb950" text-anchor="start" font-weight="bold">延拓不过去 ✓</text>
+<text x="620" y="244" font-family="sans-serif" font-size="13" fill="#8b949e" text-anchor="start" font-weight="normal">穿过内视界后，时空</text>
+<text x="620" y="266" font-family="sans-serif" font-size="13" fill="#8b949e" text-anchor="start" font-weight="normal">无法唯一延拓</text>
+</svg>

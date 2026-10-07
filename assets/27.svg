@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img">
+<defs><linearGradient id="bgg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101a30"/><stop offset="0.6" stop-color="#0d1424"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="glow" cx="0.5" cy="0.4" r="0.9"><stop offset="0" stop-color="#1b2b4d" stop-opacity="0.55"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient><marker id="arB" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#58a6ff"/></marker><marker id="arR" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ff7b72"/></marker><marker id="arG" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3fb950"/></marker><marker id="arY" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f0b429"/></marker><marker id="arW" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#e6edf3"/></marker><marker id="arP" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d2a8ff"/></marker><marker id="arO" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ffa657"/></marker><marker id="arD" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8b949e"/></marker><marker id="arC" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#79c0ff"/></marker></defs>
+<rect width="800" height="450" fill="url(#bgg)"/>
+<rect width="800" height="450" fill="url(#glow)"/>
+<text x="28" y="42" font-family="sans-serif" font-size="19" fill="#8b949e" text-anchor="start" font-weight="bold">27 · 三个齿轮：Milne 定理一次转动</text>
+<path d="M80,80 C 200,40 320,60 420,50 C 560,40 680,80 730,150 C 700,260 640,340 520,380 C 380,420 200,400 120,340 C 60,290 50,160 80,80 Z" fill="1.5" stroke="none" stroke-width="#d2a8ff" opacity="0.25"/>
+<text x="690" y="410" font-family="sans-serif" font-size="12" fill="#d2a8ff" text-anchor="end" font-weight="normal">K3 曲面</text>
+<line x1="258.9" y1="230.0" x2="275.0" y2="230.0" stroke="#58a6ff" stroke-width="9"/>
+<line x1="247.6511009686844" y1="264.62055136002664" x2="260.6762745781211" y2="274.0838939219355" stroke="#58a6ff" stroke-width="9"/>
+<line x1="218.20110096868441" y1="286.01722880978457" x2="223.17627457812105" y2="301.3292387221365" stroke="#58a6ff" stroke-width="9"/>
+<line x1="181.7988990313156" y1="286.01722880978457" x2="176.82372542187895" y2="301.32923872213655" stroke="#58a6ff" stroke-width="9"/>
+<line x1="152.3488990313156" y1="264.6205513600267" x2="139.32372542187895" y2="274.0838939219355" stroke="#58a6ff" stroke-width="9"/>
+<line x1="141.1" y1="230.0" x2="125.0" y2="230.0" stroke="#58a6ff" stroke-width="9"/>
+<line x1="152.3488990313156" y1="195.37944863997333" x2="139.32372542187892" y2="185.91610607806453" stroke="#58a6ff" stroke-width="9"/>
+<line x1="181.79889903131559" y1="173.98277119021546" x2="176.82372542187892" y2="158.6707612778635" stroke="#58a6ff" stroke-width="9"/>
+<line x1="218.2011009686844" y1="173.98277119021546" x2="223.17627457812105" y2="158.67076127786348" stroke="#58a6ff" stroke-width="9"/>
+<line x1="247.6511009686844" y1="195.3794486399733" x2="260.676274578121" y2="185.9161060780645" stroke="#58a6ff" stroke-width="9"/>
+<circle cx="200" cy="230" r="62" fill="#161b22" stroke="#58a6ff" stroke-width="3" opacity="1"/>
+<circle cx="200" cy="230" r="34.1" fill="none" stroke="#58a6ff" stroke-width="1.5" opacity="0.6"/>
+<text x="200" y="224" font-family="sans-serif" font-size="13" fill="#58a6ff" text-anchor="middle" font-weight="bold">霍奇猜想</text>
+<text x="200" y="244" font-family="sans-serif" font-size="11" fill="#e6edf3" text-anchor="middle" font-weight="normal">CM 情形</text>
+<path d="M 284,200 A 40,40 0 0 1 296,238" fill="none" stroke="#58a6ff" stroke-width="2" opacity="1"/>
+<polygon points="296,238 288,232 304,232" fill="#58a6ff"/>
+<line x1="478.9" y1="230.0" x2="495.0" y2="230.0" stroke="#3fb950" stroke-width="9"/>
+<line x1="467.65110096868443" y1="264.62055136002664" x2="480.6762745781211" y2="274.0838939219355" stroke="#3fb950" stroke-width="9"/>
+<line x1="438.2011009686844" y1="286.01722880978457" x2="443.1762745781211" y2="301.3292387221365" stroke="#3fb950" stroke-width="9"/>
+<line x1="401.7988990313156" y1="286.01722880978457" x2="396.823725421879" y2="301.32923872213655" stroke="#3fb950" stroke-width="9"/>
+<line x1="372.3488990313156" y1="264.6205513600267" x2="359.323725421879" y2="274.0838939219355" stroke="#3fb950" stroke-width="9"/>
+<line x1="361.1" y1="230.0" x2="345.0" y2="230.0" stroke="#3fb950" stroke-width="9"/>
+<line x1="372.34889903131557" y1="195.37944863997333" x2="359.3237254218789" y2="185.91610607806453" stroke="#3fb950" stroke-width="9"/>
+<line x1="401.7988990313156" y1="173.98277119021546" x2="396.8237254218789" y2="158.6707612778635" stroke="#3fb950" stroke-width="9"/>
+<line x1="438.2011009686844" y1="173.98277119021546" x2="443.176274578121" y2="158.67076127786348" stroke="#3fb950" stroke-width="9"/>
+<line x1="467.6511009686844" y1="195.3794486399733" x2="480.676274578121" y2="185.9161060780645" stroke="#3fb950" stroke-width="9"/>
+<circle cx="420" cy="230" r="62" fill="#161b22" stroke="#3fb950" stroke-width="3" opacity="1"/>
+<circle cx="420" cy="230" r="34.1" fill="none" stroke="#3fb950" stroke-width="1.5" opacity="0.6"/>
+<text x="420" y="224" font-family="sans-serif" font-size="13" fill="#3fb950" text-anchor="middle" font-weight="bold">Tate 猜想</text>
+<text x="420" y="244" font-family="sans-serif" font-size="11" fill="#e6edf3" text-anchor="middle" font-weight="normal"></text>
+<path d="M 504,200 A 40,40 0 0 1 516,238" fill="none" stroke="#3fb950" stroke-width="2" opacity="1"/>
+<polygon points="516,238 508,232 524,232" fill="#3fb950"/>
+<line x1="698.9" y1="230.0" x2="715.0" y2="230.0" stroke="#ffa657" stroke-width="9"/>
+<line x1="687.6511009686844" y1="264.62055136002664" x2="700.676274578121" y2="274.0838939219355" stroke="#ffa657" stroke-width="9"/>
+<line x1="658.2011009686844" y1="286.01722880978457" x2="663.176274578121" y2="301.3292387221365" stroke="#ffa657" stroke-width="9"/>
+<line x1="621.7988990313156" y1="286.01722880978457" x2="616.823725421879" y2="301.32923872213655" stroke="#ffa657" stroke-width="9"/>
+<line x1="592.3488990313156" y1="264.6205513600267" x2="579.323725421879" y2="274.0838939219355" stroke="#ffa657" stroke-width="9"/>
+<line x1="581.1" y1="230.0" x2="565.0" y2="230.0" stroke="#ffa657" stroke-width="9"/>
+<line x1="592.3488990313156" y1="195.37944863997333" x2="579.323725421879" y2="185.91610607806453" stroke="#ffa657" stroke-width="9"/>
+<line x1="621.7988990313156" y1="173.98277119021546" x2="616.823725421879" y2="158.6707612778635" stroke="#ffa657" stroke-width="9"/>
+<line x1="658.2011009686844" y1="173.98277119021546" x2="663.176274578121" y2="158.67076127786348" stroke="#ffa657" stroke-width="9"/>
+<line x1="687.6511009686844" y1="195.3794486399733" x2="700.676274578121" y2="185.9161060780645" stroke="#ffa657" stroke-width="9"/>
+<circle cx="640" cy="230" r="62" fill="#161b22" stroke="#ffa657" stroke-width="3" opacity="1"/>
+<circle cx="640" cy="230" r="34.1" fill="none" stroke="#ffa657" stroke-width="1.5" opacity="0.6"/>
+<text x="640" y="224" font-family="sans-serif" font-size="13" fill="#ffa657" text-anchor="middle" font-weight="bold">霍奇标准猜想</text>
+<text x="640" y="244" font-family="sans-serif" font-size="11" fill="#e6edf3" text-anchor="middle" font-weight="normal"></text>
+<path d="M 724,200 A 40,40 0 0 1 736,238" fill="none" stroke="#ffa657" stroke-width="2" opacity="1"/>
+<polygon points="736,238 728,232 744,232" fill="#ffa657"/>
+<line x1="420" y1="296" x2="420" y2="318" stroke="#f0b429" stroke-width="3"/>
+<circle cx="420" cy="338" r="20" fill="#2a2410" stroke="#f0b429" stroke-width="3" opacity="1"/>
+<text x="420" y="344" font-family="sans-serif" font-size="16" fill="#f0b429" text-anchor="middle" font-weight="bold">M</text>
+<text x="460" y="334" font-family="sans-serif" font-size="15" fill="#f0b429" text-anchor="start" font-weight="bold">Milne 定理</text>
+<text x="460" y="356" font-family="sans-serif" font-size="12" fill="#8b949e" text-anchor="start" font-weight="normal">传动轴</text>
+<text x="400" y="395" font-family="sans-serif" font-size="14" fill="#e6edf3" text-anchor="middle" font-weight="bold">一根轴转动，三个猜想同时被带动</text>
+</svg>

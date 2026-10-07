@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img">
+<defs><linearGradient id="bgg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101a30"/><stop offset="0.6" stop-color="#0d1424"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="glow" cx="0.5" cy="0.4" r="0.9"><stop offset="0" stop-color="#1b2b4d" stop-opacity="0.55"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient><marker id="arB" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#58a6ff"/></marker><marker id="arR" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ff7b72"/></marker><marker id="arG" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3fb950"/></marker><marker id="arY" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f0b429"/></marker><marker id="arW" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#e6edf3"/></marker><marker id="arP" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d2a8ff"/></marker><marker id="arO" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ffa657"/></marker><marker id="arD" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8b949e"/></marker><marker id="arC" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#79c0ff"/></marker></defs>
+<rect width="800" height="450" fill="url(#bgg)"/>
+<rect width="800" height="450" fill="url(#glow)"/>
+<text x="28" y="42" font-family="sans-serif" font-size="19" fill="#8b949e" text-anchor="start" font-weight="bold">29 · 大集里的等差数列：Erdős 的悬赏</text>
+<line x1="60" y1="200" x2="740" y2="200" stroke="#8b949e" stroke-width="3"/>
+<rect x="88" y="160" width="10" height="40" rx="0" fill="#3a4557" stroke="#8b949e" stroke-width="1.5" opacity="1"/>
+<rect x="99" y="160" width="10" height="40" rx="0" fill="#3a4557" stroke="#8b949e" stroke-width="1.5" opacity="1"/>
+<rect x="128" y="160" width="10" height="40" rx="0" fill="#3a4557" stroke="#8b949e" stroke-width="1.5" opacity="1"/>
+<rect x="155" y="160" width="10" height="40" rx="0" fill="#3a4557" stroke="#8b949e" stroke-width="1.5" opacity="1"/>
+<rect x="233" y="160" width="10" height="40" rx="0" fill="#3a4557" stroke="#8b949e" stroke-width="1.5" opacity="1"/>
+<rect x="253" y="160" width="10" height="40" rx="0" fill="#3a4557" stroke="#8b949e" stroke-width="1.5" opacity="1"/>
+<rect x="272" y="160" width="10" height="40" rx="0" fill="#3a4557" stroke="#8b949e" stroke-width="1.5" opacity="1"/>
+<rect x="306" y="160" width="10" height="40" rx="0" fill="#3a4557" stroke="#8b949e" stroke-width="1.5" opacity="1"/>
+<rect x="322" y="160" width="10" height="40" rx="0" fill="#3a4557" stroke="#8b949e" stroke-width="1.5" opacity="1"/>
+<rect x="323" y="160" width="10" height="40" rx="0" fill="#3a4557" stroke="#8b949e" stroke-width="1.5" opacity="1"/>
+<rect x="326" y="160" width="10" height="40" rx="0" fill="#3a4557" stroke="#8b949e" stroke-width="1.5" opacity="1"/>
+<rect x="373" y="160" width="10" height="40" rx="0" fill="#3a4557" stroke="#8b949e" stroke-width="1.5" opacity="1"/>
+<rect x="464" y="160" width="10" height="40" rx="0" fill="#3a4557" stroke="#8b949e" stroke-width="1.5" opacity="1"/>
+<rect x="501" y="160" width="10" height="40" rx="0" fill="#3a4557" stroke="#8b949e" stroke-width="1.5" opacity="1"/>
+<rect x="513" y="160" width="10" height="40" rx="0" fill="#3a4557" stroke="#8b949e" stroke-width="1.5" opacity="1"/>
+<rect x="523" y="160" width="10" height="40" rx="0" fill="#3a4557" stroke="#8b949e" stroke-width="1.5" opacity="1"/>
+<rect x="532" y="160" width="10" height="40" rx="0" fill="#3a4557" stroke="#8b949e" stroke-width="1.5" opacity="1"/>
+<rect x="571" y="160" width="10" height="40" rx="0" fill="#3a4557" stroke="#8b949e" stroke-width="1.5" opacity="1"/>
+<rect x="575" y="160" width="10" height="40" rx="0" fill="#3a4557" stroke="#8b949e" stroke-width="1.5" opacity="1"/>
+<rect x="602" y="160" width="10" height="40" rx="0" fill="#3a4557" stroke="#8b949e" stroke-width="1.5" opacity="1"/>
+<rect x="609" y="160" width="10" height="40" rx="0" fill="#3a4557" stroke="#8b949e" stroke-width="1.5" opacity="1"/>
+<rect x="625" y="160" width="10" height="40" rx="0" fill="#3a4557" stroke="#8b949e" stroke-width="1.5" opacity="1"/>
+<rect x="134" y="150" width="12" height="50" rx="0" fill="#3d1520" stroke="#ff7b72" stroke-width="2" opacity="1"/>
+<circle cx="140" cy="175" r="20" fill="none" stroke="#ff7b72" stroke-width="2.5" opacity="1"/>
+<rect x="214" y="150" width="12" height="50" rx="0" fill="#3d1520" stroke="#ff7b72" stroke-width="2" opacity="1"/>
+<circle cx="220" cy="175" r="20" fill="none" stroke="#ff7b72" stroke-width="2.5" opacity="1"/>
+<rect x="294" y="150" width="12" height="50" rx="0" fill="#3d1520" stroke="#ff7b72" stroke-width="2" opacity="1"/>
+<circle cx="300" cy="175" r="20" fill="none" stroke="#ff7b72" stroke-width="2.5" opacity="1"/>
+<rect x="374" y="150" width="12" height="50" rx="0" fill="#3d1520" stroke="#ff7b72" stroke-width="2" opacity="1"/>
+<circle cx="380" cy="175" r="20" fill="none" stroke="#ff7b72" stroke-width="2.5" opacity="1"/>
+<rect x="454" y="150" width="12" height="50" rx="0" fill="#3d1520" stroke="#ff7b72" stroke-width="2" opacity="1"/>
+<circle cx="460" cy="175" r="20" fill="none" stroke="#ff7b72" stroke-width="2.5" opacity="1"/>
+<rect x="534" y="150" width="12" height="50" rx="0" fill="#3d1520" stroke="#ff7b72" stroke-width="2" opacity="1"/>
+<circle cx="540" cy="175" r="20" fill="none" stroke="#ff7b72" stroke-width="2.5" opacity="1"/>
+<rect x="614" y="150" width="12" height="50" rx="0" fill="#3d1520" stroke="#ff7b72" stroke-width="2" opacity="1"/>
+<circle cx="620" cy="175" r="20" fill="none" stroke="#ff7b72" stroke-width="2.5" opacity="1"/>
+<path d="M 140,175 220,175 300,175 380,175 460,175 540,175 620,175" fill="none" stroke="#ff7b72" stroke-width="2" stroke-dasharray="8,6" opacity="1"/>
+<text x="400" y="120" font-family="sans-serif" font-size="17" fill="#ff7b72" text-anchor="middle" font-weight="bold">任意长等差数列必藏其中</text>
+<text x="400" y="260" font-family="sans-serif" font-size="13" fill="#8b949e" text-anchor="middle" font-weight="normal">稀疏的路牌（大集）里，7 个等距路牌被红圈连起</text>
+<rect x="560" y="290" width="180" height="90" rx="6" fill="#0e2a1a" stroke="#3fb950" stroke-width="2" opacity="1"/>
+<text x="650" y="322" font-family="sans-serif" font-size="24" fill="#3fb950" text-anchor="middle" font-weight="bold">$5,000</text>
+<text x="650" y="348" font-family="sans-serif" font-size="13" fill="#3fb950" text-anchor="middle" font-weight="normal">Erdős 悬赏</text>
+<text x="650" y="368" font-family="sans-serif" font-size="11" fill="#8b949e" text-anchor="middle" font-weight="normal">（致敬）</text>
+</svg>

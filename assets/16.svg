@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img">
+<defs><linearGradient id="bgg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101a30"/><stop offset="0.6" stop-color="#0d1424"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="glow" cx="0.5" cy="0.4" r="0.9"><stop offset="0" stop-color="#1b2b4d" stop-opacity="0.55"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient><marker id="arB" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#58a6ff"/></marker><marker id="arR" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ff7b72"/></marker><marker id="arG" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3fb950"/></marker><marker id="arY" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f0b429"/></marker><marker id="arW" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#e6edf3"/></marker><marker id="arP" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d2a8ff"/></marker><marker id="arO" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ffa657"/></marker><marker id="arD" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8b949e"/></marker><marker id="arC" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#79c0ff"/></marker></defs>
+<rect width="800" height="450" fill="url(#bgg)"/>
+<rect width="800" height="450" fill="url(#glow)"/>
+<text x="28" y="42" font-family="sans-serif" font-size="19" fill="#8b949e" text-anchor="start" font-weight="bold">16 · 黑洞的体重：M ≥ √(A/16π)</text>
+<circle cx="180" cy="210" r="75" fill="#000000" stroke="#d2a8ff" stroke-width="3" opacity="1"/>
+<circle cx="180" cy="210" r="88" fill="none" stroke="#d2a8ff" stroke-width="1.5" opacity="0.4"/>
+<text x="180" y="150" font-family="sans-serif" font-size="13" fill="#d2a8ff" text-anchor="middle" font-weight="normal">视界</text>
+<line x1="180" y1="165" x2="180" y2="195" stroke="#d2a8ff" stroke-width="2" marker-end="url(#arP)"/>
+<text x="180" y="320" font-family="sans-serif" font-size="16" fill="#e6edf3" text-anchor="middle" font-weight="bold">面积 A</text>
+<text x="180" y="348" font-family="sans-serif" font-size="15" fill="#f0b429" text-anchor="middle" font-weight="bold">总质量 M ≥ √(A/16π)</text>
+<line x1="480" y1="120" x2="480" y2="360" stroke="#8b949e" stroke-width="4"/>
+<line x1="360" y1="140" x2="600" y2="140" stroke="#8b949e" stroke-width="4"/>
+<circle cx="480" cy="140" r="7" fill="#8b949e" stroke="#8b949e" stroke-width="1" opacity="1"/>
+<line x1="380" y1="140" x2="380" y2="200" stroke="#8b949e" stroke-width="2"/>
+<path d="M340,200 L420,200 L400,260 L360,260 Z" fill="#000000" stroke="#d2a8ff" stroke-width="2" opacity="1"/>
+<circle cx="380" cy="225" r="22" fill="#000000" stroke="#d2a8ff" stroke-width="2" opacity="1"/>
+<line x1="580" y1="140" x2="580" y2="200" stroke="#8b949e" stroke-width="2"/>
+<path d="M540,200 L620,200 L600,260 L560,260 Z" fill="#1c2333" stroke="#f0b429" stroke-width="2" opacity="1"/>
+<text x="580" y="238" font-family="sans-serif" font-size="20" fill="#f0b429" text-anchor="middle" font-weight="bold">M</text>
+<text x="480" y="395" font-family="sans-serif" font-size="15" fill="#e6edf3" text-anchor="middle" font-weight="bold">体重不能轻于个头</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img">
+<defs><linearGradient id="bgg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101a30"/><stop offset="0.6" stop-color="#0d1424"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="glow" cx="0.5" cy="0.4" r="0.9"><stop offset="0" stop-color="#1b2b4d" stop-opacity="0.55"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient><marker id="arB" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#58a6ff"/></marker><marker id="arR" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ff7b72"/></marker><marker id="arG" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3fb950"/></marker><marker id="arY" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f0b429"/></marker><marker id="arW" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#e6edf3"/></marker><marker id="arP" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d2a8ff"/></marker><marker id="arO" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ffa657"/></marker><marker id="arD" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8b949e"/></marker><marker id="arC" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#79c0ff"/></marker></defs>
+<rect width="800" height="450" fill="url(#bgg)"/>
+<rect width="800" height="450" fill="url(#glow)"/>
+<text x="28" y="42" font-family="sans-serif" font-size="19" fill="#8b949e" text-anchor="start" font-weight="bold">24 · 黎曼零点：7/8 右侧再无零点</text>
+<line x1="90" y1="90" x2="90" y2="390" stroke="#8b949e" stroke-width="2"/>
+<line x1="90" y1="300" x2="740" y2="300" stroke="#8b949e" stroke-width="2"/>
+<text x="60" y="70" font-family="sans-serif" font-size="13" fill="#8b949e" text-anchor="start" font-weight="normal" font-style="italic">Im(s)</text>
+<text x="745" y="305" font-family="sans-serif" font-size="13" fill="#8b949e" text-anchor="start" font-weight="normal" font-style="italic">Re(s)</text>
+<line x1="395.0" y1="90" x2="395.0" y2="390" stroke="#58a6ff" stroke-width="2.5" stroke-dasharray="10,7"/>
+<text x="395.0" y="415" font-family="sans-serif" font-size="13" fill="#58a6ff" text-anchor="middle" font-weight="bold">Re(s) = 1/2 黎曼线</text>
+<line x1="623.75" y1="90" x2="623.75" y2="390" stroke="#f0b429" stroke-width="3"/>
+<text x="623.75" y="75" font-family="sans-serif" font-size="14" fill="#f0b429" text-anchor="middle" font-weight="bold">Re(s) = 7/8</text>
+<rect x="623.75" y="90" width="76.25" height="300" rx="0" fill="#3d1520" stroke="none" stroke-width="0" opacity="0.55"/>
+<text x="688" y="200" font-family="sans-serif" font-size="14" fill="#ff7b72" text-anchor="middle" font-weight="bold">该手稿证明：</text>
+<text x="688" y="222" font-family="sans-serif" font-size="14" fill="#ff7b72" text-anchor="middle" font-weight="bold">此区域无零点</text>
+<circle cx="442.90227943359776" cy="251.49959857694748" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="469.47197502612835" cy="267.0192100350106" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="520.9574972169512" cy="127.0375034023514" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="397.65071669999617" cy="327.74196134507963" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="447.20796308422797" cy="170.92604987214105" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="595.4233053882562" cy="232.26851195583646" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="563.3796901415344" cy="233.8518342618271" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="523.6444166915398" cy="149.16027024611623" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="522.7974505128084" cy="335.6917798572572" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="500.3163776501586" cy="302.72548261238745" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="530.155129991899" cy="126.6481739390193" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="547.6317485775363" cy="263.6858915621426" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="455.6451798605129" cy="118.06305538213499" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="569.2306328038617" cy="232.91476305302137" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="539.6992559144462" cy="338.49132806642524" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="538.7542650509351" cy="349.48565357180735" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="474.50613322534974" cy="318.23628045615936" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="484.50221858301813" cy="353.2525476431755" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="571.9158587260479" cy="135.33812053002808" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="422.3705315583947" cy="166.4166047206157" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="589.3511519602082" cy="223.40208532313162" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="521.1443009514876" cy="188.2668115906314" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="497.1080126447897" cy="210.32522729967468" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="465.6382813894373" cy="262.1192679253945" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="512.609885924901" cy="345.0924604204215" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<circle cx="532.2830041046188" cy="351.5258563120044" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<text x="400" y="437" font-family="sans-serif" font-size="13" fill="#8b949e" text-anchor="middle" font-weight="normal">红色零点只敢待在临界带里，7/8 以东干干净净</text>
+</svg>
