@@ -23,11 +23,11 @@
 **广义振幅阻尼信道（GADC）** 是一族双参数量子比特信道，参数为 $\gamma$（阻尼）、 $N$（热噪声）的 GADC 记作 $\mathcal{A}$，其中 $\gamma\in[0,1]$ 为阻尼（损耗）参数， $N\in[0,1]$ 为热噪声参数（环境热态的激发布居）。其 Kraus 表示为 $\mathcal{A}(\rho)=\sum_{i=1}^4 A_i\rho A_i^\dagger$，其中
 
 $$
-A_1=\sqrt{1-N}\begin{pmatrix}1&0\\0&\sqrt{1-\gamma}\end{pmatrix},\quad A_2=\sqrt{\gamma(1-N)}\begin{pmatrix}0&1\\0&0\end{pmatrix},
+A_1=\sqrt{1-N}\begin{pmatrix}1&0\cr0&\sqrt{1-\gamma}\end{pmatrix},\quad A_2=\sqrt{\gamma(1-N)}\begin{pmatrix}0&1\cr0&0\end{pmatrix},
 $$
 
 $$
-A_3=\sqrt{N}\begin{pmatrix}\sqrt{1-\gamma}&0\\0&1\end{pmatrix},\quad A_4=\sqrt{\gamma N}\begin{pmatrix}0&0\\1&0\end{pmatrix}.
+A_3=\sqrt{N}\begin{pmatrix}\sqrt{1-\gamma}&0\cr0&1\end{pmatrix},\quad A_4=\sqrt{\gamma N}\begin{pmatrix}0&0\cr1&0\end{pmatrix}.
 $$
 
 $N=0$ 时退化为普通振幅阻尼信道（零温能量弛豫）； $N=1/2$ 时信道是保单位元的（unital）。在 Bloch 球上，它把 Bloch 矢量 $\mathbf{r}=(x,y,z)$ 映为 $(\sqrt{1-\gamma}\,x,\sqrt{1-\gamma}\,y,(1-\gamma)z+\gamma(1-2N))$：横向收缩、纵向平移——"漏水又受热"的几何写照。
