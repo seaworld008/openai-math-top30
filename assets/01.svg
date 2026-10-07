@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img">
+<defs><linearGradient id="bgg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101a30"/><stop offset="0.6" stop-color="#0d1424"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="glow" cx="0.5" cy="0.4" r="0.9"><stop offset="0" stop-color="#1b2b4d" stop-opacity="0.55"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient><marker id="arB" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#58a6ff"/></marker><marker id="arR" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ff7b72"/></marker><marker id="arG" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3fb950"/></marker><marker id="arY" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f0b429"/></marker><marker id="arW" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#e6edf3"/></marker><marker id="arP" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d2a8ff"/></marker><marker id="arO" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ffa657"/></marker><marker id="arD" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8b949e"/></marker><marker id="arC" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#79c0ff"/></marker></defs>
+<rect width="800" height="450" fill="url(#bgg)"/>
+<rect width="800" height="450" fill="url(#glow)"/>
+<text x="28" y="42" font-family="sans-serif" font-size="19" fill="#8b949e" text-anchor="start" font-weight="bold">01 · 近似算法的天花板：0.878 不可逾越</text>
+<line x1="90" y1="90" x2="90" y2="390" stroke="#8b949e" stroke-width="2"/>
+<line x1="84" y1="380.0" x2="96" y2="380.0" stroke="#8b949e" stroke-width="1.5"/>
+<text x="78" y="385.0" font-family="sans-serif" font-size="13" fill="#8b949e" text-anchor="end" font-weight="normal">0.5</text>
+<line x1="84" y1="326.0" x2="96" y2="326.0" stroke="#8b949e" stroke-width="1.5"/>
+<text x="78" y="331.0" font-family="sans-serif" font-size="13" fill="#8b949e" text-anchor="end" font-weight="normal">0.6</text>
+<line x1="84" y1="272.0" x2="96" y2="272.0" stroke="#8b949e" stroke-width="1.5"/>
+<text x="78" y="277.0" font-family="sans-serif" font-size="13" fill="#8b949e" text-anchor="end" font-weight="normal">0.7</text>
+<line x1="84" y1="217.99999999999997" x2="96" y2="217.99999999999997" stroke="#8b949e" stroke-width="1.5"/>
+<text x="78" y="222.99999999999997" font-family="sans-serif" font-size="13" fill="#8b949e" text-anchor="end" font-weight="normal">0.8</text>
+<line x1="84" y1="164.0" x2="96" y2="164.0" stroke="#8b949e" stroke-width="1.5"/>
+<text x="78" y="169.0" font-family="sans-serif" font-size="13" fill="#8b949e" text-anchor="end" font-weight="normal">0.9</text>
+<line x1="84" y1="110.0" x2="96" y2="110.0" stroke="#8b949e" stroke-width="1.5"/>
+<text x="78" y="115.0" font-family="sans-serif" font-size="13" fill="#8b949e" text-anchor="end" font-weight="normal">1.0</text>
+<text x="40" y="70" font-family="sans-serif" font-size="14" fill="#8b949e" text-anchor="start" font-weight="normal">近似比</text>
+<line x1="110" y1="175.88" x2="700" y2="175.88" stroke="#ff7b72" stroke-width="4"/>
+<text x="710" y="163.88" font-family="sans-serif" font-size="18" fill="#ff7b72" text-anchor="start" font-weight="bold">0.878</text>
+<text x="710" y="187.88" font-family="sans-serif" font-size="14" fill="#ff7b72" text-anchor="start" font-weight="normal">天花板</text>
+<line x1="560" y1="105.88" x2="560" y2="167.88" stroke="#ff7b72" stroke-width="2.5" marker-end="url(#arR)"/>
+<text x="400" y="97.88" font-family="sans-serif" font-size="17" fill="#ff7b72" text-anchor="middle" font-weight="bold">该手稿证明：此线不可逾越</text>
+<rect x="130" y="250" width="150" height="74" rx="10" fill="#161b22" stroke="#58a6ff" stroke-width="2" opacity="1"/>
+<text x="205" y="280" font-family="sans-serif" font-size="16" fill="#58a6ff" text-anchor="middle" font-weight="bold">Max-Cut</text>
+<text x="205" y="304" font-family="sans-serif" font-size="14" fill="#e6edf3" text-anchor="middle" font-weight="normal">最大割问题</text>
+<line x1="205" y1="250" x2="205" y2="183.88" stroke="#58a6ff" stroke-width="2" marker-end="url(#arB)"/>
+<rect x="330" y="250" width="150" height="74" rx="10" fill="#161b22" stroke="#58a6ff" stroke-width="2" opacity="1"/>
+<text x="405" y="280" font-family="sans-serif" font-size="16" fill="#58a6ff" text-anchor="middle" font-weight="bold">Vertex Cover</text>
+<text x="405" y="304" font-family="sans-serif" font-size="14" fill="#e6edf3" text-anchor="middle" font-weight="normal">顶点覆盖</text>
+<line x1="405" y1="250" x2="405" y2="183.88" stroke="#58a6ff" stroke-width="2" marker-end="url(#arB)"/>
+<rect x="530" y="250" width="150" height="74" rx="10" fill="#161b22" stroke="#58a6ff" stroke-width="2" opacity="1"/>
+<text x="605" y="280" font-family="sans-serif" font-size="16" fill="#58a6ff" text-anchor="middle" font-weight="bold">Min-UnCut</text>
+<text x="605" y="304" font-family="sans-serif" font-size="14" fill="#e6edf3" text-anchor="middle" font-weight="normal">最小不割</text>
+<line x1="605" y1="250" x2="605" y2="183.88" stroke="#58a6ff" stroke-width="2" marker-end="url(#arB)"/>
+<text x="400" y="420" font-family="sans-serif" font-size="14" fill="#8b949e" text-anchor="middle" font-weight="normal">三个经典 NP 难问题的近似比，都顶到了这条天花板</text>
+</svg>

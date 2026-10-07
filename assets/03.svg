@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img">
+<defs><linearGradient id="bgg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101a30"/><stop offset="0.6" stop-color="#0d1424"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="glow" cx="0.5" cy="0.4" r="0.9"><stop offset="0" stop-color="#1b2b4d" stop-opacity="0.55"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient><marker id="arB" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#58a6ff"/></marker><marker id="arR" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ff7b72"/></marker><marker id="arG" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3fb950"/></marker><marker id="arY" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f0b429"/></marker><marker id="arW" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#e6edf3"/></marker><marker id="arP" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d2a8ff"/></marker><marker id="arO" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ffa657"/></marker><marker id="arD" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8b949e"/></marker><marker id="arC" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#79c0ff"/></marker></defs>
+<rect width="800" height="450" fill="url(#bgg)"/>
+<rect width="800" height="450" fill="url(#glow)"/>
+<text x="28" y="42" font-family="sans-serif" font-size="19" fill="#8b949e" text-anchor="start" font-weight="bold">03 · 打破 O(n log n)：排序的裂缝</text>
+<rect x="90" y="110" width="400" height="240" rx="6" fill="#1c2333" stroke="#8b949e" stroke-width="2" opacity="1"/>
+<line x1="90" y1="150" x2="490" y2="150" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="90" y1="190" x2="490" y2="190" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="90" y1="230" x2="490" y2="230" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="90" y1="270" x2="490" y2="270" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="90" y1="310" x2="490" y2="310" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="145" y1="110" x2="145" y2="150" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="255" y1="110" x2="255" y2="150" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="365" y1="110" x2="365" y2="150" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="475" y1="110" x2="475" y2="150" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="185" y1="150" x2="185" y2="190" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="295" y1="150" x2="295" y2="190" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="405" y1="150" x2="405" y2="190" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="145" y1="190" x2="145" y2="230" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="255" y1="190" x2="255" y2="230" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="365" y1="190" x2="365" y2="230" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="475" y1="190" x2="475" y2="230" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="185" y1="230" x2="185" y2="270" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="295" y1="230" x2="295" y2="270" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="405" y1="230" x2="405" y2="270" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="145" y1="270" x2="145" y2="310" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="255" y1="270" x2="255" y2="310" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="365" y1="270" x2="365" y2="310" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="475" y1="270" x2="475" y2="310" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="185" y1="310" x2="185" y2="350" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="295" y1="310" x2="295" y2="350" stroke="#3a4557" stroke-width="1.5"/>
+<line x1="405" y1="310" x2="405" y2="350" stroke="#3a4557" stroke-width="1.5"/>
+<text x="290" y="215" font-family="sans-serif" font-size="30" fill="#e6edf3" text-anchor="middle" font-weight="bold">O(n log n)</text>
+<text x="290" y="248" font-family="sans-serif" font-size="18" fill="#8b949e" text-anchor="middle" font-weight="normal">1965 – 2025</text>
+<polygon points="330,110 352,150 338,190 360,230 344,270 362,310 348,350 330,350 344,310 326,270 342,230 320,190 336,150" fill="#0d1117" stroke="#ff7b72" stroke-width="3" opacity="1"/>
+<text x="620" y="200" font-family="sans-serif" font-size="22" fill="#3fb950" text-anchor="middle" font-weight="bold">O(n (log n)</text>
+<text x="620" y="230" font-family="sans-serif" font-size="22" fill="#3fb950" text-anchor="middle" font-weight="bold">1−δ</text>
+<text x="620" y="262" font-family="sans-serif" font-size="14" fill="#8b949e" text-anchor="middle" font-weight="normal">裂缝另一侧</text>
+<line x1="500" y1="230" x2="545" y2="230" stroke="#3fb950" stroke-width="2.5" marker-end="url(#arG)"/>
+<rect x="560" y="300" width="16" height="90" rx="0" fill="#8b949e" stroke="#8b949e" stroke-width="1" opacity="1"/>
+<rect x="530" y="280" width="76" height="30" rx="4" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<text x="640" y="330" font-family="sans-serif" font-size="15" fill="#f0b429" text-anchor="middle" font-weight="bold">确定性</text>
+<text x="640" y="352" font-family="sans-serif" font-size="15" fill="#f0b429" text-anchor="middle" font-weight="bold">精确算法</text>
+<text x="400" y="420" font-family="sans-serif" font-size="14" fill="#8b949e" text-anchor="middle" font-weight="normal">60 年的墙，被确定性精确算法敲开一道缝</text>
+</svg>

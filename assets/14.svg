@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img">
+<defs><linearGradient id="bgg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101a30"/><stop offset="0.6" stop-color="#0d1424"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="glow" cx="0.5" cy="0.4" r="0.9"><stop offset="0" stop-color="#1b2b4d" stop-opacity="0.55"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient><marker id="arB" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#58a6ff"/></marker><marker id="arR" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ff7b72"/></marker><marker id="arG" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3fb950"/></marker><marker id="arY" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f0b429"/></marker><marker id="arW" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#e6edf3"/></marker><marker id="arP" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d2a8ff"/></marker><marker id="arO" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ffa657"/></marker><marker id="arD" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8b949e"/></marker><marker id="arC" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#79c0ff"/></marker></defs>
+<rect width="800" height="450" fill="url(#bgg)"/>
+<rect width="800" height="450" fill="url(#glow)"/>
+<text x="28" y="42" font-family="sans-serif" font-size="19" fill="#8b949e" text-anchor="start" font-weight="bold">14 · 量子水管：容量可以相加</text>
+<rect x="60" y="180" width="320" height="70" rx="35" fill="#12233d" stroke="#79c0ff" stroke-width="3" opacity="1"/>
+<circle cx="140" cy="215" r="12" fill="#1b4d7a" stroke="#79c0ff" stroke-width="2" opacity="1"/>
+<text x="140" y="221" font-family="sans-serif" font-size="13" fill="#e6edf3" text-anchor="middle" font-weight="bold">0</text>
+<circle cx="210" cy="215" r="12" fill="#1b4d7a" stroke="#79c0ff" stroke-width="2" opacity="1"/>
+<text x="210" y="221" font-family="sans-serif" font-size="13" fill="#e6edf3" text-anchor="middle" font-weight="bold">1</text>
+<circle cx="280" cy="215" r="12" fill="#1b4d7a" stroke="#79c0ff" stroke-width="2" opacity="1"/>
+<text x="280" y="221" font-family="sans-serif" font-size="13" fill="#e6edf3" text-anchor="middle" font-weight="bold">0</text>
+<circle cx="350" cy="215" r="12" fill="#1b4d7a" stroke="#79c0ff" stroke-width="2" opacity="1"/>
+<text x="350" y="221" font-family="sans-serif" font-size="13" fill="#e6edf3" text-anchor="middle" font-weight="bold">1</text>
+<text x="220" y="170" font-family="sans-serif" font-size="13" fill="#79c0ff" text-anchor="middle" font-weight="normal">经典比特（水流）</text>
+<circle cx="170" cy="268" r="5" fill="#79c0ff" stroke="#79c0ff" stroke-width="1" opacity="0.7"/>
+<circle cx="170" cy="285" r="4" fill="#79c0ff" stroke="#79c0ff" stroke-width="1" opacity="0.4"/>
+<circle cx="280" cy="268" r="5" fill="#79c0ff" stroke="#79c0ff" stroke-width="1" opacity="0.7"/>
+<circle cx="280" cy="285" r="4" fill="#79c0ff" stroke="#79c0ff" stroke-width="1" opacity="0.4"/>
+<circle cx="390" cy="268" r="5" fill="#79c0ff" stroke="#79c0ff" stroke-width="1" opacity="0.7"/>
+<circle cx="390" cy="285" r="4" fill="#79c0ff" stroke="#79c0ff" stroke-width="1" opacity="0.4"/>
+<text x="220" y="310" font-family="sans-serif" font-size="13" fill="#8b949e" text-anchor="middle" font-weight="normal">漏水 = 振幅阻尼</text>
+<circle cx="450" cy="215" r="48" fill="#161b22" stroke="#f0b429" stroke-width="3" opacity="1"/>
+<line x1="418.8230854637602" y1="197.0" x2="411.8948822334847" y2="193.0" stroke="#8b949e" stroke-width="2"/>
+<line x1="450.0" y1="179.0" x2="450.0" y2="171.0" stroke="#8b949e" stroke-width="2"/>
+<line x1="481.1769145362398" y1="197.0" x2="488.1051177665153" y2="193.0" stroke="#8b949e" stroke-width="2"/>
+<line x1="450" y1="215" x2="476.04551106604526" y2="193.14522127065766" stroke="#ff7b72" stroke-width="3"/>
+<circle cx="450" cy="215" r="5" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<text x="450" y="300" font-family="sans-serif" font-size="13" fill="#f0b429" text-anchor="middle" font-weight="bold">流速上限仪表盘</text>
+<text x="450" y="322" font-family="sans-serif" font-size="12" fill="#8b949e" text-anchor="middle" font-weight="normal">单变量优化的最优值</text>
+<rect x="560" y="150" width="150" height="34" rx="17" fill="#12233d" stroke="#79c0ff" stroke-width="2" opacity="1"/>
+<rect x="560" y="200" width="150" height="34" rx="17" fill="#12233d" stroke="#79c0ff" stroke-width="2" opacity="1"/>
+<text x="720" y="205" font-family="sans-serif" font-size="22" fill="#e6edf3" text-anchor="middle" font-weight="bold">+</text>
+<text x="635" y="280" font-family="sans-serif" font-size="15" fill="#3fb950" text-anchor="middle" font-weight="bold">容量可加</text>
+<text x="635" y="304" font-family="sans-serif" font-size="18" fill="#3fb950" text-anchor="middle" font-weight="bold">1 + 1 = 2</text>
+</svg>

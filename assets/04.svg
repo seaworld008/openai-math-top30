@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img">
+<defs><linearGradient id="bgg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101a30"/><stop offset="0.6" stop-color="#0d1424"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="glow" cx="0.5" cy="0.4" r="0.9"><stop offset="0" stop-color="#1b2b4d" stop-opacity="0.55"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient><marker id="arB" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#58a6ff"/></marker><marker id="arR" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ff7b72"/></marker><marker id="arG" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3fb950"/></marker><marker id="arY" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f0b429"/></marker><marker id="arW" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#e6edf3"/></marker><marker id="arP" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d2a8ff"/></marker><marker id="arO" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ffa657"/></marker><marker id="arD" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8b949e"/></marker><marker id="arC" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#79c0ff"/></marker></defs>
+<rect width="800" height="450" fill="url(#bgg)"/>
+<rect width="800" height="450" fill="url(#glow)"/>
+<text x="28" y="42" font-family="sans-serif" font-size="19" fill="#8b949e" text-anchor="start" font-weight="bold">04 · 从概率到确定：一次到位的量子算法</text>
+<circle cx="180" cy="215" r="68" fill="#2a2410" stroke="#f0b429" stroke-width="3" opacity="1"/>
+<circle cx="180" cy="215" r="54" fill="none" stroke="#f0b429" stroke-width="1.5" opacity="0.6"/>
+<text x="180" y="208" font-family="sans-serif" font-size="20" fill="#f0b429" text-anchor="middle" font-weight="bold">抛硬币</text>
+<text x="180" y="234" font-family="sans-serif" font-size="14" fill="#8b949e" text-anchor="middle" font-weight="normal">50 / 50</text>
+<text x="180" y="330" font-family="sans-serif" font-size="15" fill="#e6edf3" text-anchor="middle" font-weight="normal">Shor 1994：大概率成功</text>
+<text x="180" y="354" font-family="sans-serif" font-size="14" fill="#8b949e" text-anchor="middle" font-weight="normal">需重复运行</text>
+<circle cx="620" cy="215" r="68" fill="#0e2a1a" stroke="#3fb950" stroke-width="3" opacity="1"/>
+<path d="M585,215 L610,242 L660,190" fill="none" stroke="#3fb950" stroke-width="8" opacity="1"/>
+<text x="620" y="330" font-family="sans-serif" font-size="15" fill="#e6edf3" text-anchor="middle" font-weight="bold">本成果：概率 1</text>
+<text x="620" y="354" font-family="sans-serif" font-size="15" fill="#3fb950" text-anchor="middle" font-weight="bold">一次到位 ✓</text>
+<line x1="268" y1="215" x2="532" y2="215" stroke="#58a6ff" stroke-width="4" marker-end="url(#arB)"/>
+<text x="400" y="175" font-family="sans-serif" font-size="16" fill="#58a6ff" text-anchor="middle" font-weight="bold">固定有限门集</text>
+<text x="400" y="199" font-family="sans-serif" font-size="16" fill="#58a6ff" text-anchor="middle" font-weight="bold">可直接编译上硬件</text>
+<text x="400" y="420" font-family="sans-serif" font-size="14" fill="#8b949e" text-anchor="middle" font-weight="normal">从「多半能成」到「必定能成」：量子算法的确定性时刻</text>
+</svg>

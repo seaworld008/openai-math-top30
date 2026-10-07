@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img">
+<defs><linearGradient id="bgg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101a30"/><stop offset="0.6" stop-color="#0d1424"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="glow" cx="0.5" cy="0.4" r="0.9"><stop offset="0" stop-color="#1b2b4d" stop-opacity="0.55"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient><marker id="arB" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#58a6ff"/></marker><marker id="arR" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ff7b72"/></marker><marker id="arG" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3fb950"/></marker><marker id="arY" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f0b429"/></marker><marker id="arW" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#e6edf3"/></marker><marker id="arP" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d2a8ff"/></marker><marker id="arO" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ffa657"/></marker><marker id="arD" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8b949e"/></marker><marker id="arC" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#79c0ff"/></marker></defs>
+<rect width="800" height="450" fill="url(#bgg)"/>
+<rect width="800" height="450" fill="url(#glow)"/>
+<text x="28" y="42" font-family="sans-serif" font-size="19" fill="#8b949e" text-anchor="start" font-weight="bold">06 · 浅层量子电路算不出奇偶性</text>
+<text x="60" y="100" font-family="sans-serif" font-size="16" fill="#e6edf3" text-anchor="start" font-weight="bold">只有 3 层的量子电路</text>
+<line x1="60" y1="170" x2="300" y2="170" stroke="#58a6ff" stroke-width="2.5"/>
+<rect x="94" y="154" width="32" height="32" rx="4" fill="#12233d" stroke="#58a6ff" stroke-width="2" opacity="1"/>
+<text x="110" y="176" font-family="sans-serif" font-size="15" fill="#58a6ff" text-anchor="middle" font-weight="bold">U</text>
+<rect x="154" y="154" width="32" height="32" rx="4" fill="#12233d" stroke="#58a6ff" stroke-width="2" opacity="1"/>
+<text x="170" y="176" font-family="sans-serif" font-size="15" fill="#58a6ff" text-anchor="middle" font-weight="bold">U</text>
+<rect x="214" y="154" width="32" height="32" rx="4" fill="#12233d" stroke="#58a6ff" stroke-width="2" opacity="1"/>
+<text x="230" y="176" font-family="sans-serif" font-size="15" fill="#58a6ff" text-anchor="middle" font-weight="bold">U</text>
+<line x1="60" y1="220" x2="300" y2="220" stroke="#58a6ff" stroke-width="2.5"/>
+<rect x="94" y="204" width="32" height="32" rx="4" fill="#12233d" stroke="#58a6ff" stroke-width="2" opacity="1"/>
+<text x="110" y="226" font-family="sans-serif" font-size="15" fill="#58a6ff" text-anchor="middle" font-weight="bold">U</text>
+<rect x="154" y="204" width="32" height="32" rx="4" fill="#12233d" stroke="#58a6ff" stroke-width="2" opacity="1"/>
+<text x="170" y="226" font-family="sans-serif" font-size="15" fill="#58a6ff" text-anchor="middle" font-weight="bold">U</text>
+<rect x="214" y="204" width="32" height="32" rx="4" fill="#12233d" stroke="#58a6ff" stroke-width="2" opacity="1"/>
+<text x="230" y="226" font-family="sans-serif" font-size="15" fill="#58a6ff" text-anchor="middle" font-weight="bold">U</text>
+<line x1="60" y1="270" x2="300" y2="270" stroke="#58a6ff" stroke-width="2.5"/>
+<rect x="94" y="254" width="32" height="32" rx="4" fill="#12233d" stroke="#58a6ff" stroke-width="2" opacity="1"/>
+<text x="110" y="276" font-family="sans-serif" font-size="15" fill="#58a6ff" text-anchor="middle" font-weight="bold">U</text>
+<rect x="154" y="254" width="32" height="32" rx="4" fill="#12233d" stroke="#58a6ff" stroke-width="2" opacity="1"/>
+<text x="170" y="276" font-family="sans-serif" font-size="15" fill="#58a6ff" text-anchor="middle" font-weight="bold">U</text>
+<rect x="214" y="254" width="32" height="32" rx="4" fill="#12233d" stroke="#58a6ff" stroke-width="2" opacity="1"/>
+<text x="230" y="276" font-family="sans-serif" font-size="15" fill="#58a6ff" text-anchor="middle" font-weight="bold">U</text>
+<circle cx="350" cy="220" r="30" fill="#2a2410" stroke="#f0b429" stroke-width="3" opacity="1"/>
+<text x="350" y="214" font-family="sans-serif" font-size="12" fill="#f0b429" text-anchor="middle" font-weight="bold">奇偶性？</text>
+<line x1="300" y1="220" x2="320" y2="220" stroke="#58a6ff" stroke-width="2.5"/>
+<line x1="330" y1="200" x2="370" y2="240" stroke="#ff7b72" stroke-width="5"/>
+<line x1="370" y1="200" x2="330" y2="240" stroke="#ff7b72" stroke-width="5"/>
+<text x="205" y="330" font-family="sans-serif" font-size="14" fill="#8b949e" text-anchor="middle" font-weight="normal">3 层 × 很多门 —— 依然不够</text>
+<text x="560" y="100" font-family="sans-serif" font-size="16" fill="#e6edf3" text-anchor="middle" font-weight="bold">想算奇偶性？</text>
+<rect x="470" y="300" width="28" height="40" rx="3" fill="#12233d" stroke="#d2a8ff" stroke-width="2" opacity="1"/>
+<rect x="508" y="270" width="28" height="70" rx="3" fill="#12233d" stroke="#d2a8ff" stroke-width="2" opacity="1"/>
+<rect x="546" y="240" width="28" height="100" rx="3" fill="#12233d" stroke="#d2a8ff" stroke-width="2" opacity="1"/>
+<rect x="584" y="210" width="28" height="130" rx="3" fill="#12233d" stroke="#d2a8ff" stroke-width="2" opacity="1"/>
+<rect x="622" y="180" width="28" height="160" rx="3" fill="#12233d" stroke="#d2a8ff" stroke-width="2" opacity="1"/>
+<line x1="700" y1="330" x2="700" y2="150" stroke="#d2a8ff" stroke-width="3" marker-end="url(#arP)"/>
+<text x="712" y="240" font-family="sans-serif" font-size="14" fill="#d2a8ff" text-anchor="start" font-weight="normal">层数必须</text>
+<text x="712" y="262" font-family="sans-serif" font-size="14" fill="#d2a8ff" text-anchor="start" font-weight="normal">随 n 增长</text>
+<text x="560" y="400" font-family="sans-serif" font-size="14" fill="#8b949e" text-anchor="middle" font-weight="normal">常数层 vs 线性层：一条不可逾越的鸿沟</text>
+</svg>

@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img">
+<defs><linearGradient id="bgg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101a30"/><stop offset="0.6" stop-color="#0d1424"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="glow" cx="0.5" cy="0.4" r="0.9"><stop offset="0" stop-color="#1b2b4d" stop-opacity="0.55"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient><marker id="arB" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#58a6ff"/></marker><marker id="arR" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ff7b72"/></marker><marker id="arG" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3fb950"/></marker><marker id="arY" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f0b429"/></marker><marker id="arW" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#e6edf3"/></marker><marker id="arP" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d2a8ff"/></marker><marker id="arO" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ffa657"/></marker><marker id="arD" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8b949e"/></marker><marker id="arC" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#79c0ff"/></marker></defs>
+<rect width="800" height="450" fill="url(#bgg)"/>
+<rect width="800" height="450" fill="url(#glow)"/>
+<text x="28" y="42" font-family="sans-serif" font-size="19" fill="#8b949e" text-anchor="start" font-weight="bold">10 · 自旋链：有隙与无隙，拓扑边缘态</text>
+<text x="60" y="110" font-family="sans-serif" font-size="15" fill="#e6edf3" text-anchor="start" font-weight="bold">整数自旋链</text>
+<rect x="120" y="128" width="480" height="16" rx="8" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="0.85"/>
+<text x="610" y="142" font-family="sans-serif" font-size="14" fill="#ff7b72" text-anchor="start" font-weight="bold">门槛：能隙 Δ &gt; 0</text>
+<g><rect x="139" y="189" width="22" height="22" rx="4" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/>
+<text x="150" y="206" font-family="sans-serif" font-size="16" fill="#58a6ff" text-anchor="middle" font-weight="bold">↑</text>
+</g>
+<line x1="161" y1="200" x2="177" y2="200" stroke="#8b949e" stroke-width="1.5"/>
+<g><rect x="201" y="189" width="22" height="22" rx="4" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/>
+<text x="212" y="206" font-family="sans-serif" font-size="16" fill="#58a6ff" text-anchor="middle" font-weight="bold">↓</text>
+</g>
+<line x1="223" y1="200" x2="239" y2="200" stroke="#8b949e" stroke-width="1.5"/>
+<g><rect x="263" y="189" width="22" height="22" rx="4" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/>
+<text x="274" y="206" font-family="sans-serif" font-size="16" fill="#58a6ff" text-anchor="middle" font-weight="bold">↑</text>
+</g>
+<line x1="285" y1="200" x2="301" y2="200" stroke="#8b949e" stroke-width="1.5"/>
+<g><rect x="325" y="189" width="22" height="22" rx="4" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/>
+<text x="336" y="206" font-family="sans-serif" font-size="16" fill="#58a6ff" text-anchor="middle" font-weight="bold">↓</text>
+</g>
+<line x1="347" y1="200" x2="363" y2="200" stroke="#8b949e" stroke-width="1.5"/>
+<g><rect x="387" y="189" width="22" height="22" rx="4" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/>
+<text x="398" y="206" font-family="sans-serif" font-size="16" fill="#58a6ff" text-anchor="middle" font-weight="bold">↑</text>
+</g>
+<line x1="409" y1="200" x2="425" y2="200" stroke="#8b949e" stroke-width="1.5"/>
+<g><rect x="449" y="189" width="22" height="22" rx="4" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/>
+<text x="460" y="206" font-family="sans-serif" font-size="16" fill="#58a6ff" text-anchor="middle" font-weight="bold">↓</text>
+</g>
+<line x1="471" y1="200" x2="487" y2="200" stroke="#8b949e" stroke-width="1.5"/>
+<g><rect x="511" y="189" width="22" height="22" rx="4" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/>
+<text x="522" y="206" font-family="sans-serif" font-size="16" fill="#58a6ff" text-anchor="middle" font-weight="bold">↑</text>
+</g>
+<line x1="533" y1="200" x2="549" y2="200" stroke="#8b949e" stroke-width="1.5"/>
+<g><rect x="573" y="189" width="22" height="22" rx="4" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/>
+<text x="584" y="206" font-family="sans-serif" font-size="16" fill="#58a6ff" text-anchor="middle" font-weight="bold">↓</text>
+</g>
+<text x="60" y="290" font-family="sans-serif" font-size="15" fill="#e6edf3" text-anchor="start" font-weight="bold">半整数自旋链</text>
+<polygon points="120,330 600,330 600,352 120,352" fill="#1c2333" stroke="#3fb950" stroke-width="2" opacity="1"/>
+<text x="610" y="348" font-family="sans-serif" font-size="14" fill="#3fb950" text-anchor="start" font-weight="bold">平滑滑梯：无能隙</text>
+<g><rect x="139" y="304" width="22" height="22" rx="4" fill="#161b22" stroke="#3fb950" stroke-width="1.5"/>
+<text x="150" y="321" font-family="sans-serif" font-size="16" fill="#3fb950" text-anchor="middle" font-weight="bold">↑</text>
+</g>
+<g><rect x="201" y="304" width="22" height="22" rx="4" fill="#161b22" stroke="#3fb950" stroke-width="1.5"/>
+<text x="212" y="321" font-family="sans-serif" font-size="16" fill="#3fb950" text-anchor="middle" font-weight="bold">↓</text>
+</g>
+<g><rect x="263" y="304" width="22" height="22" rx="4" fill="#161b22" stroke="#3fb950" stroke-width="1.5"/>
+<text x="274" y="321" font-family="sans-serif" font-size="16" fill="#3fb950" text-anchor="middle" font-weight="bold">↑</text>
+</g>
+<g><rect x="325" y="304" width="22" height="22" rx="4" fill="#161b22" stroke="#3fb950" stroke-width="1.5"/>
+<text x="336" y="321" font-family="sans-serif" font-size="16" fill="#3fb950" text-anchor="middle" font-weight="bold">↓</text>
+</g>
+<g><rect x="387" y="304" width="22" height="22" rx="4" fill="#161b22" stroke="#3fb950" stroke-width="1.5"/>
+<text x="398" y="321" font-family="sans-serif" font-size="16" fill="#3fb950" text-anchor="middle" font-weight="bold">↑</text>
+</g>
+<g><rect x="449" y="304" width="22" height="22" rx="4" fill="#161b22" stroke="#3fb950" stroke-width="1.5"/>
+<text x="460" y="321" font-family="sans-serif" font-size="16" fill="#3fb950" text-anchor="middle" font-weight="bold">↓</text>
+</g>
+<g><rect x="511" y="304" width="22" height="22" rx="4" fill="#161b22" stroke="#3fb950" stroke-width="1.5"/>
+<text x="522" y="321" font-family="sans-serif" font-size="16" fill="#3fb950" text-anchor="middle" font-weight="bold">↑</text>
+</g>
+<g><rect x="573" y="304" width="22" height="22" rx="4" fill="#161b22" stroke="#3fb950" stroke-width="1.5"/>
+<text x="584" y="321" font-family="sans-serif" font-size="16" fill="#3fb950" text-anchor="middle" font-weight="bold">↓</text>
+</g>
+<circle cx="110" cy="200" r="20" fill="#2a2410" stroke="#f0b429" stroke-width="2" opacity="1"/>
+<text x="110" y="205" font-family="sans-serif" font-size="14" fill="#f0b429" text-anchor="middle" font-weight="bold">½</text>
+<circle cx="110" cy="315" r="20" fill="#2a2410" stroke="#f0b429" stroke-width="2" opacity="1"/>
+<text x="110" y="320" font-family="sans-serif" font-size="14" fill="#f0b429" text-anchor="middle" font-weight="bold">½</text>
+<circle cx="640" cy="200" r="20" fill="#2a2410" stroke="#f0b429" stroke-width="2" opacity="1"/>
+<text x="640" y="205" font-family="sans-serif" font-size="14" fill="#f0b429" text-anchor="middle" font-weight="bold">½</text>
+<circle cx="640" cy="315" r="20" fill="#2a2410" stroke="#f0b429" stroke-width="2" opacity="1"/>
+<text x="640" y="320" font-family="sans-serif" font-size="14" fill="#f0b429" text-anchor="middle" font-weight="bold">½</text>
+<text x="700" y="200" font-family="sans-serif" font-size="13" fill="#f0b429" text-anchor="middle" font-weight="bold">拓扑</text>
+<text x="700" y="220" font-family="sans-serif" font-size="13" fill="#f0b429" text-anchor="middle" font-weight="bold">边缘态</text>
+<text x="400" y="420" font-family="sans-serif" font-size="14" fill="#8b949e" text-anchor="middle" font-weight="normal">链的两端各冒出「半个自旋」：拓扑保护的边缘态</text>
+</svg>

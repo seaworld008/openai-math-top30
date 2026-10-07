@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img">
+<defs><linearGradient id="bgg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101a30"/><stop offset="0.6" stop-color="#0d1424"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="glow" cx="0.5" cy="0.4" r="0.9"><stop offset="0" stop-color="#1b2b4d" stop-opacity="0.55"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient><marker id="arB" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#58a6ff"/></marker><marker id="arR" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ff7b72"/></marker><marker id="arG" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3fb950"/></marker><marker id="arY" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f0b429"/></marker><marker id="arW" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#e6edf3"/></marker><marker id="arP" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d2a8ff"/></marker><marker id="arO" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ffa657"/></marker><marker id="arD" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8b949e"/></marker><marker id="arC" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#79c0ff"/></marker></defs>
+<rect width="800" height="450" fill="url(#bgg)"/>
+<rect width="800" height="450" fill="url(#glow)"/>
+<text x="28" y="42" font-family="sans-serif" font-size="19" fill="#8b949e" text-anchor="start" font-weight="bold">13 · 纠缠蒸馏：14 年猜想被推翻</text>
+<polygon points="90,200 130,160 170,200 130,260" fill="#2a1a4d" stroke="#d2a8ff" stroke-width="2.5" opacity="1"/>
+<text x="130" y="300" font-family="sans-serif" font-size="14" fill="#d2a8ff" text-anchor="middle" font-weight="bold">纠缠矿石</text>
+<line x1="180" y1="215" x2="250" y2="215" stroke="#58a6ff" stroke-width="3" marker-end="url(#arB)"/>
+<polygon points="250,170 370,170 330,260 290,260" fill="#12233d" stroke="#58a6ff" stroke-width="2.5" opacity="1"/>
+<text x="310" y="200" font-family="sans-serif" font-size="14" fill="#58a6ff" text-anchor="middle" font-weight="bold">蒸馏器</text>
+<line x1="310" y1="260" x2="310" y2="300" stroke="#58a6ff" stroke-width="3" marker-end="url(#arB)"/>
+<rect x="250" y="310" width="120" height="60" rx="8" fill="#161b22" stroke="#8b949e" stroke-width="2" opacity="1"/>
+<text x="310" y="338" font-family="sans-serif" font-size="13" fill="#8b949e" text-anchor="middle" font-weight="normal">密钥产量</text>
+<text x="310" y="362" font-family="sans-serif" font-size="20" fill="#ff7b72" text-anchor="middle" font-weight="bold">= 0</text>
+<line x1="450" y1="240" x2="740" y2="240" stroke="#8b949e" stroke-width="3"/>
+<line x1="450" y1="270" x2="740" y2="270" stroke="#8b949e" stroke-width="3"/>
+<circle cx="530" cy="255" r="26" fill="#161b22" stroke="#ffa657" stroke-width="2.5" opacity="1"/>
+<line x1="553.92" y1="255.0" x2="565.0" y2="255.0" stroke="#ffa657" stroke-width="5"/>
+<line x1="546.9139942059822" y1="271.9139942059822" x2="554.7487373415291" y2="279.74873734152914" stroke="#ffa657" stroke-width="5"/>
+<line x1="530.0" y1="278.92" x2="530.0" y2="290.0" stroke="#ffa657" stroke-width="5"/>
+<line x1="513.0860057940178" y1="271.91399420598225" x2="505.25126265847086" y2="279.74873734152914" stroke="#ffa657" stroke-width="5"/>
+<line x1="506.08" y1="255.0" x2="495.0" y2="255.0" stroke="#ffa657" stroke-width="5"/>
+<line x1="513.0860057940178" y1="238.08600579401778" x2="505.2512626584708" y2="230.25126265847084" stroke="#ffa657" stroke-width="5"/>
+<line x1="530.0" y1="231.07999999999998" x2="530.0" y2="220.0" stroke="#ffa657" stroke-width="5"/>
+<line x1="546.9139942059822" y1="238.08600579401778" x2="554.7487373415291" y2="230.25126265847084" stroke="#ffa657" stroke-width="5"/>
+<circle cx="530" cy="255" r="9.1" fill="none" stroke="#ffa657" stroke-width="2" opacity="1"/>
+<circle cx="582" cy="255" r="26" fill="#161b22" stroke="#ffa657" stroke-width="2.5" opacity="1"/>
+<line x1="605.92" y1="255.0" x2="617.0" y2="255.0" stroke="#ffa657" stroke-width="5"/>
+<line x1="598.9139942059822" y1="271.9139942059822" x2="606.7487373415291" y2="279.74873734152914" stroke="#ffa657" stroke-width="5"/>
+<line x1="582.0" y1="278.92" x2="582.0" y2="290.0" stroke="#ffa657" stroke-width="5"/>
+<line x1="565.0860057940178" y1="271.91399420598225" x2="557.2512626584709" y2="279.74873734152914" stroke="#ffa657" stroke-width="5"/>
+<line x1="558.08" y1="255.0" x2="547.0" y2="255.0" stroke="#ffa657" stroke-width="5"/>
+<line x1="565.0860057940178" y1="238.08600579401778" x2="557.2512626584709" y2="230.25126265847084" stroke="#ffa657" stroke-width="5"/>
+<line x1="582.0" y1="231.07999999999998" x2="582.0" y2="220.0" stroke="#ffa657" stroke-width="5"/>
+<line x1="598.9139942059822" y1="238.08600579401778" x2="606.7487373415291" y2="230.25126265847084" stroke="#ffa657" stroke-width="5"/>
+<circle cx="582" cy="255" r="9.1" fill="none" stroke="#ffa657" stroke-width="2" opacity="1"/>
+<text x="556" y="320" font-family="sans-serif" font-size="13" fill="#ffa657" text-anchor="middle" font-weight="bold">PPT 齿轮咬合</text>
+<rect x="640" y="225" width="110" height="60" rx="8" fill="#2a1a10" stroke="#ff7b72" stroke-width="2" opacity="1"/>
+<text x="695" y="250" font-family="sans-serif" font-size="14" fill="#ff7b72" text-anchor="middle" font-weight="bold">输出 ≠</text>
+<text x="695" y="272" font-family="sans-serif" font-size="13" fill="#ff7b72" text-anchor="middle" font-weight="normal">「纠缠破缺」</text>
+<text x="400" y="415" font-family="sans-serif" font-size="15" fill="#f0b429" text-anchor="middle" font-weight="bold">14 年猜想被推翻：PPT 纠缠也可以被蒸馏</text>
+</svg>

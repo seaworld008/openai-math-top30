@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img">
+<defs><linearGradient id="bgg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101a30"/><stop offset="0.6" stop-color="#0d1424"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="glow" cx="0.5" cy="0.4" r="0.9"><stop offset="0" stop-color="#1b2b4d" stop-opacity="0.55"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient><marker id="arB" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#58a6ff"/></marker><marker id="arR" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ff7b72"/></marker><marker id="arG" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3fb950"/></marker><marker id="arY" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f0b429"/></marker><marker id="arW" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#e6edf3"/></marker><marker id="arP" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d2a8ff"/></marker><marker id="arO" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ffa657"/></marker><marker id="arD" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8b949e"/></marker><marker id="arC" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#79c0ff"/></marker></defs>
+<rect width="800" height="450" fill="url(#bgg)"/>
+<rect width="800" height="450" fill="url(#glow)"/>
+<text x="28" y="42" font-family="sans-serif" font-size="19" fill="#8b949e" text-anchor="start" font-weight="bold">12 · 基态能量：QMA-难的山谷</text>
+<path d="M40,380 C 120,380 140,300 220,300 C 300,300 300,350 380,350 C 440,350 440,220 540,220 C 620,220 640,300 720,300 L760,300" fill="3" stroke="none" stroke-width="#d2a8ff" opacity="1"/>
+<path d="M40,380 C 120,380 140,300 220,300 C 300,300 300,350 380,350 C 440,350 440,220 540,220 C 620,220 640,300 720,300 L760,300 L760,400 L40,400 Z" fill="#1a1430" stroke="none" stroke-width="0" opacity="0.5"/>
+<circle cx="540" cy="220" r="8" fill="#f0b429" stroke="#f0b429" stroke-width="1" opacity="1"/>
+<text x="540" y="200" font-family="sans-serif" font-size="15" fill="#f0b429" text-anchor="middle" font-weight="bold">基态能量</text>
+<line x1="540" y1="208" x2="540" y2="214" stroke="#f0b429" stroke-width="2" marker-end="url(#arY)"/>
+<line x1="180" y1="300" x2="180" y2="380" stroke="#8b949e" stroke-width="4"/>
+<rect x="90" y="250" width="180" height="56" rx="6" fill="#2a1a10" stroke="#ffa657" stroke-width="2" opacity="1"/>
+<text x="180" y="274" font-family="sans-serif" font-size="16" fill="#ffa657" text-anchor="middle" font-weight="bold">QMA-难</text>
+<text x="180" y="296" font-family="sans-serif" font-size="12" fill="#e6edf3" text-anchor="middle" font-weight="normal">经典计算机爬不出去</text>
+<rect x="640" y="90" width="70" height="90" rx="8" fill="#0e2a1a" stroke="#3fb950" stroke-width="2.5" opacity="1"/>
+<text x="675" y="125" font-family="sans-serif" font-size="26" fill="#3fb950" text-anchor="middle" font-weight="bold">ψ</text>
+<text x="675" y="155" font-family="sans-serif" font-size="11" fill="#3fb950" text-anchor="middle" font-weight="normal">量子计算机</text>
+<line x1="640" y1="150" x2="590" y2="190" stroke="#3fb950" stroke-width="2.5" marker-end="url(#arG)"/>
+<text x="560" y="120" font-family="sans-serif" font-size="14" fill="#3fb950" text-anchor="middle" font-weight="bold">量子算法可能有路</text>
+<text x="400" y="425" font-family="sans-serif" font-size="13" fill="#8b949e" text-anchor="middle" font-weight="normal">连续空间里的能量地貌：最低点在哪，经典计算机找不到</text>
+</svg>

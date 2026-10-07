@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img">
+<defs><linearGradient id="bgg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101a30"/><stop offset="0.6" stop-color="#0d1424"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="glow" cx="0.5" cy="0.4" r="0.9"><stop offset="0" stop-color="#1b2b4d" stop-opacity="0.55"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient><marker id="arB" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#58a6ff"/></marker><marker id="arR" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ff7b72"/></marker><marker id="arG" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3fb950"/></marker><marker id="arY" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f0b429"/></marker><marker id="arW" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#e6edf3"/></marker><marker id="arP" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d2a8ff"/></marker><marker id="arO" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ffa657"/></marker><marker id="arD" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8b949e"/></marker><marker id="arC" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#79c0ff"/></marker></defs>
+<rect width="800" height="450" fill="url(#bgg)"/>
+<rect width="800" height="450" fill="url(#glow)"/>
+<text x="28" y="42" font-family="sans-serif" font-size="19" fill="#8b949e" text-anchor="start" font-weight="bold">02 · 矩阵乘法指数 ω：向 2 进军</text>
+<line x1="70" y1="90" x2="70" y2="390" stroke="#8b949e" stroke-width="2"/>
+<line x1="70" y1="390" x2="740" y2="390" stroke="#8b949e" stroke-width="2"/>
+<line x1="64" y1="356.66666666666663" x2="76" y2="356.66666666666663" stroke="#8b949e" stroke-width="1.5"/>
+<text x="58" y="361.66666666666663" font-family="sans-serif" font-size="13" fill="#8b949e" text-anchor="end" font-weight="normal">2.8</text>
+<line x1="64" y1="290.00000000000006" x2="76" y2="290.00000000000006" stroke="#8b949e" stroke-width="1.5"/>
+<text x="58" y="295.00000000000006" font-family="sans-serif" font-size="13" fill="#8b949e" text-anchor="end" font-weight="normal">2.6</text>
+<line x1="64" y1="223.33333333333331" x2="76" y2="223.33333333333331" stroke="#8b949e" stroke-width="1.5"/>
+<text x="58" y="228.33333333333331" font-family="sans-serif" font-size="13" fill="#8b949e" text-anchor="end" font-weight="normal">2.4</text>
+<line x1="64" y1="156.66666666666677" x2="76" y2="156.66666666666677" stroke="#8b949e" stroke-width="1.5"/>
+<text x="58" y="161.66666666666677" font-family="sans-serif" font-size="13" fill="#8b949e" text-anchor="end" font-weight="normal">2.2</text>
+<line x1="64" y1="90.00000000000006" x2="76" y2="90.00000000000006" stroke="#8b949e" stroke-width="1.5"/>
+<text x="58" y="95.00000000000006" font-family="sans-serif" font-size="13" fill="#8b949e" text-anchor="end" font-weight="normal">2.0</text>
+<text x="30" y="70" font-family="sans-serif" font-size="15" fill="#8b949e" text-anchor="start" font-weight="normal" font-style="italic">ω</text>
+<path d="M 113,360 L 293,357 L 336,355 L 495,350 L 591,214 L 666,214 L 687,214 L 708,213" fill="none" stroke="#58a6ff" stroke-width="3" opacity="1"/>
+<circle cx="112.53968253968253" cy="360.00000000000006" r="4" fill="#58a6ff" stroke="#58a6ff" stroke-width="1" opacity="1"/>
+<circle cx="335.87301587301585" cy="355.3333333333333" r="4" fill="#58a6ff" stroke="#58a6ff" stroke-width="1" opacity="1"/>
+<circle cx="591.1111111111111" cy="214.33333333333346" r="4" fill="#58a6ff" stroke="#58a6ff" stroke-width="1" opacity="1"/>
+<circle cx="686.8253968253968" cy="213.8666666666667" r="4" fill="#58a6ff" stroke="#58a6ff" stroke-width="1" opacity="1"/>
+<text x="106.53968253968253" y="348.00000000000006" font-family="sans-serif" font-size="13" fill="#58a6ff" text-anchor="start" font-weight="normal">1969 · 2.81</text>
+<text x="668.0952380952381" y="199.3333333333334" font-family="sans-serif" font-size="13" fill="#58a6ff" text-anchor="start" font-weight="normal">2025 · 2.37</text>
+<line x1="708.0952380952381" y1="213.3333333333334" x2="725.1111111111102" y2="173.33333333333337" stroke="#ff7b72" stroke-width="4" marker-end="url(#arR)"/>
+<circle cx="725.1111111111102" cy="173.33333333333337" r="7" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<text x="739.1111111111102" y="167.33333333333337" font-family="sans-serif" font-size="17" fill="#ff7b72" text-anchor="start" font-weight="bold">2.25</text>
+<text x="739.1111111111102" y="189.33333333333337" font-family="sans-serif" font-size="15" fill="#ff7b72" text-anchor="start" font-weight="bold">本成果</text>
+<line x1="70" y1="90.00000000000006" x2="740" y2="90.00000000000006" stroke="#3fb950" stroke-width="2" stroke-dasharray="10,7"/>
+<text x="730" y="80.00000000000006" font-family="sans-serif" font-size="14" fill="#3fb950" text-anchor="end" font-weight="bold">ω = 2 终极目标</text>
+<text x="400" y="425" font-family="sans-serif" font-size="14" fill="#8b949e" text-anchor="middle" font-weight="normal">56 年缓慢爬坡 → 本成果断崖式下跌</text>
+</svg>

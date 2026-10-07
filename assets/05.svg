@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img">
+<defs><linearGradient id="bgg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101a30"/><stop offset="0.6" stop-color="#0d1424"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="glow" cx="0.5" cy="0.4" r="0.9"><stop offset="0" stop-color="#1b2b4d" stop-opacity="0.55"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient><marker id="arB" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#58a6ff"/></marker><marker id="arR" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ff7b72"/></marker><marker id="arG" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3fb950"/></marker><marker id="arY" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f0b429"/></marker><marker id="arW" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#e6edf3"/></marker><marker id="arP" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#d2a8ff"/></marker><marker id="arO" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ffa657"/></marker><marker id="arD" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8b949e"/></marker><marker id="arC" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#79c0ff"/></marker></defs>
+<rect width="800" height="450" fill="url(#bgg)"/>
+<rect width="800" height="450" fill="url(#glow)"/>
+<text x="28" y="42" font-family="sans-serif" font-size="19" fill="#8b949e" text-anchor="start" font-weight="bold">05 · 量子–经典查询分离：四次方是极限</text>
+<line x1="90" y1="90" x2="90" y2="390" stroke="#8b949e" stroke-width="2"/>
+<line x1="90" y1="390" x2="740" y2="390" stroke="#8b949e" stroke-width="2"/>
+<text x="60" y="70" font-family="sans-serif" font-size="16" fill="#8b949e" text-anchor="start" font-weight="normal" font-style="italic">R</text>
+<text x="745" y="395" font-family="sans-serif" font-size="16" fill="#8b949e" text-anchor="start" font-weight="normal" font-style="italic">Q</text>
+<text x="400" y="415" font-family="sans-serif" font-size="13" fill="#8b949e" text-anchor="middle" font-weight="normal">横轴 Q：量子查询次数；纵轴 R：经典查询次数</text>
+<path d="M130,365 C 300,350 470,280 660,120" fill="none" stroke="#ffa657" stroke-width="3" stroke-dasharray="10,7" opacity="1"/>
+<text x="668" y="112" font-family="sans-serif" font-size="15" fill="#ffa657" text-anchor="start" font-weight="bold">y = x³</text>
+<text x="668" y="134" font-family="sans-serif" font-size="13" fill="#ffa657" text-anchor="start" font-weight="normal">被证伪的三次方猜想</text>
+<path d="M130,365 C 300,360 470,310 660,60" fill="none" stroke="#58a6ff" stroke-width="4" opacity="1"/>
+<text x="668" y="52" font-family="sans-serif" font-size="15" fill="#58a6ff" text-anchor="start" font-weight="bold">y = x⁴</text>
+<text x="668" y="74" font-family="sans-serif" font-size="13" fill="#58a6ff" text-anchor="start" font-weight="normal">通用上界，本成果证明其紧</text>
+<circle cx="470" cy="310" r="7" fill="#ff7b72" stroke="#ff7b72" stroke-width="1" opacity="1"/>
+<text x="470" y="348" font-family="sans-serif" font-size="13" fill="#ff7b72" text-anchor="middle" font-weight="bold">达到四次方分离的函数</text>
+<line x1="470" y1="340" x2="470" y2="320" stroke="#ff7b72" stroke-width="2" marker-end="url(#arR)"/>
+</svg>
